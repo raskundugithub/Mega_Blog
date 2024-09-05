@@ -19,5 +19,5 @@ The Mega Blog Web Application is a dynamic and user-friendly platform designed f
 - Appwrite
 - Tailwind CSS
 - React Dom
-- React-tool-kit
+- Redux tolkit
 - TinyMCE
